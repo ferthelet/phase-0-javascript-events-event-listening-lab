@@ -1,0 +1,5 @@
+  index.js
+    ✓ binds an event listener in addingEventListener()
+
+
+  1 passing (267ms)
